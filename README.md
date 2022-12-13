@@ -21,3 +21,7 @@
 `react-query`
 
 `react-router-dom`
+
+# WARNING
+
++ API invalid (limited call per month) 
